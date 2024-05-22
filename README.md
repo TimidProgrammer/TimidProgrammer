@@ -21,3 +21,6 @@ Let's collaborate on your next digital quest!
 Find my owl or click the magical links below 
 - LinkedIn: [[Brent Macatangay](https://linkedin.com/in/brent-macatangay/)]
 - GitHub: [[Brent Macatangay](https://github.com/TimidProgrammer)]  (Recursion Alert⚠️⚠️⚠️) 
+
+## 🪄 Github Overview
+<img src="https://github-readme-stats.vercel.app/api?username=TimidProgrammer&show_icons=true&hide=&count_private=true&title_color=eeba30&text_color=eeba30&icon_color=eeba30&bg_color=740001&hide_border=true&show_icons=true" alt="Brent's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimidProgrammer&stroke=eeba30&background=740001&ring=eeba30&fire=eeba30&currStreakNum=ffffff&currStreakLabel=eeba30&sideNums=eeba30&sideLabels=eeba30&dates=eeba30&hide_border=true" />
