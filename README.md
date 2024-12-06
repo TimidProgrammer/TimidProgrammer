@@ -3,7 +3,7 @@
 
 **Welcome Wizards, Witches and Muggles, where the magic of coding meets the wizardry of imagination! 🪄**
 
-For the past 8 years, I have journeyed through the enchanted world of Full Stack Development, honing my skills and mastering the arcane arts of web development. 
+For the past 9 years, I have journeyed through the enchanted world of Full Stack Development, honing my skills and mastering the arcane arts of web development. 
 
 ## 🧹 Expertise
 - Full Stack Web Development with **PHP**(**Laravel**) and **JaveScript**
